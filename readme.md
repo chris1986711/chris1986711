@@ -1,5 +1,6 @@
 
-just getting star of my code life
+just getting started with my code life
+
 ### Links FB LinkedIn Twitter
 
 | [LinkedIn](https://www.linkedin.com/in/chris1986711/) | [Twitter](https://twitter.com/ChrisCh07549965/)| [Facebook](https://www.facebook.com/profile.php?id=100000216993952/)
@@ -7,10 +8,10 @@ just getting star of my code life
 
 ### Current 現在進行式:
 
-家裡蹲有限公司
+@@ just getting star of my code life
 
 ### Past 過去式:
 
-- NCKU Environmental Engineering
+- National Cheng Kung University - [Environmental Engineering BS](https://ev.ncku.edu.tw/)
 
-- Taiyuan Real estate development
+-  Real Estate Development in Taiyuan, China
