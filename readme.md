@@ -8,10 +8,10 @@ just getting started with my code life
 
 ### Current 現在進行式:
 
-@@ just getting star of my code life
+@@ just getting star of my code life and runnig  Guzheng music classroom & studio in taituan,China
 
 ### Past 過去式:
 
 - National Cheng Kung University - [Environmental Engineering BS](https://ev.ncku.edu.tw/)
 
--  Real Estate Development in Taiyuan, China
+- Real Estate Development in Taiyuan, China
