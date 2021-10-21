@@ -8,10 +8,10 @@ just getting started with my code life
 
 ### Current 現在進行式:
 
-家裡蹲有限公司
+@@ just getting star of my code life in Taichung,Taiwan and runnig Guzheng music classroom & studio in Taiyuan,China
 
 ### Past 過去式:
 
 - National Cheng Kung University - [Environmental Engineering BS](https://ev.ncku.edu.tw/)
-
 - Real Estate Development in Taiyuan, China
+
